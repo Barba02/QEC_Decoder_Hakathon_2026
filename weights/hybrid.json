@@ -1,0 +1,1 @@
+{"threshold": 2.375, "chunk": 8192, "tf32": true, "nn_tf32": true}

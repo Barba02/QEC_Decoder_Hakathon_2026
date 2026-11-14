@@ -1,0 +1,2 @@
+X.npz filter=lfs diff=lfs merge=lfs -text
+Z.npz filter=lfs diff=lfs merge=lfs -text

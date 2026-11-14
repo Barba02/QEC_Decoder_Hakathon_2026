@@ -1,0 +1,4 @@
+# Training (same packages as the decoder)
+numpy==2.5.4
+stim==1.16.0
+torch==2.15.0
