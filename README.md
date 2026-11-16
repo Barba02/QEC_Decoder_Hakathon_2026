@@ -19,6 +19,10 @@ The network decodes every shot first. Each prediction whose logit is closer to z
 sampled predictions this gives the same output as running the exact decoder on everything, at a fraction of
 the cost.
 
+**## Explanatory Video**
+
+A video explaining the hybrid decoder architecture, the neural pre-decoder, and the exact maximum-likelihood decoding approach: [watch the explanatory video on YouTube](https://www.youtube.com/watch?v=Pm7dpdKC4qc).
+
 ## Files
 
 - `decoder.py` – `decode()`; loads the weights, builds the exact decoder's tables and warms up the GPU at import.
